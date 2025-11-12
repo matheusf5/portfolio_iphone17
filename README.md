@@ -20,7 +20,7 @@ O objetivo foi aplicar conceitos de:
 > As imagens utilizadas estão na pasta `/imagem`.
 
 ## 🔗 Como acessar o projeto
-Acesse o site publicado aqui
+Acesse o site publicado aqui: (https://matheusf5.github.io/portfolio_iphone17/)
 
 ## 💬 Contato
 📧 [LinkedIn](https://www.linkedin.com/in/matheus-felix-/)  
